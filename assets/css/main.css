@@ -1,0 +1,10 @@
+@font-face {
+  font-family: Recoleta;
+  src: url(/assets/fonts/Recoleta\ Regular\ DEMO.otf);
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Recoleta;
+}/*# sourceMappingURL=main.css.map */
